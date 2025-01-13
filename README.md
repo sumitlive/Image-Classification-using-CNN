@@ -1,1 +1,1 @@
-# Object-Detection-using-CNN
+# Image-Classification-using-CNN
